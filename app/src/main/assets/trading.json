@@ -1,0 +1,20 @@
+{
+  "PageNow" : 1,
+  "PageSize" : 10,
+  "Records" : [{"Amount":2.78,"BillId":"36adc9c1-16f0-44e6-af17-a74a00108009","Status":"test1","Time":"2017-04-03 01:00:04","TopCategoryId":1020,"Type":1},
+    {"Amount":2.78,"BillId":"36adc9c1-16f0-44e6-af17-a74a00108009","Status":"test2","Time":"2017-04-03 01:00:04","TopCategoryId":1020,"Type":1},
+    {"Amount":2.78,"BillId":"36adc9c1-16f0-44e6-af17-a74a00108009","Status":"test2","Time":"2017-04-03 01:00:04","TopCategoryId":1020,"Type":1},
+    {"Amount":2.78,"BillId":"36adc9c1-16f0-44e6-af17-a74a00108009","Status":"test2","Time":"2017-04-03 01:00:04","TopCategoryId":1020,"Type":1},
+    {"Amount":2.78,"BillId":"36adc9c1-16f0-44e6-af17-a74a00108009","Status":"test2","Time":"2017-04-03 01:00:04","TopCategoryId":1020,"Type":1},
+    {"Amount":2.78,"BillId":"36adc9c1-16f0-44e6-af17-a74a00108009","Status":"test2","Time":"2017-04-03 01:00:04","TopCategoryId":1020,"Type":1},
+    {"Amount":2.78,"BillId":"36adc9c1-16f0-44e6-af17-a74a00108009","Status":"test2","Time":"2017-04-03 01:00:04","TopCategoryId":1020,"Type":1},
+    {"Amount":2.78,"BillId":"36adc9c1-16f0-44e6-af17-a74a00108009","Status":"test2","Time":"2017-04-03 01:00:04","TopCategoryId":1020,"Type":1},
+    {"Amount":2.78,"BillId":"36adc9c1-16f0-44e6-af17-a74a00108009","Status":"test2","Time":"2017-04-03 01:00:04","TopCategoryId":1020,"Type":1},
+    {"Amount":2.78,"BillId":"36adc9c1-16f0-44e6-af17-a74a00108009","Status":"test2","Time":"2017-04-03 01:00:04","TopCategoryId":1020,"Type":1},
+    {"Amount":2.78,"BillId":"36adc9c1-16f0-44e6-af17-a74a00108009","Status":"test2","Time":"2017-04-03 01:00:04","TopCategoryId":1020,"Type":1},
+    {"Amount":2.78,"BillId":"36adc9c1-16f0-44e6-af17-a74a00108009","Status":"test2","Time":"2017-04-03 01:00:04","TopCategoryId":1020,"Type":1},
+    {"Amount":2.78,"BillId":"36adc9c1-16f0-44e6-af17-a74a00108009","Status":"test2","Time":"2017-04-03 01:00:04","TopCategoryId":1020,"Type":1},
+    {"Amount":2.78,"BillId":"36adc9c1-16f0-44e6-af17-a74a00108009","Status":"test2","Time":"2017-04-03 01:00:04","TopCategoryId":1020,"Type":1},
+    {"Amount":2.78,"BillId":"36adc9c1-16f0-44e6-af17-a74a00108009","Status":"test3","Time":"2017-04-03 01:00:04","TopCategoryId":1020,"Type":1}],
+  "TotalCount" : 60
+}
